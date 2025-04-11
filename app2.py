@@ -3,7 +3,7 @@ import pandas as pd
 from io import BytesIO
 
 st.set_page_config(page_title="Cálculo Estimativo", layout="wide")
-st.title("📊 Cálculo Estimativo - São Paulo")
+st.title("📊 Cálculo Estimativo")
 
 tabs = st.tabs(["🔵 Mercado Endereçável", "📈 Market Share", "⬇️ Exportar"])
 
